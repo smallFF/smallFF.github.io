@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Feng Jiang"
-description              : "Northwestern Polytechnical University (NWPU)"
+description              : "Dynamics & Control of Complex Systems (DCCS)"
 repository               : "smallFF/smallFF.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Feng Jiang"
   avatar           : "images/IMG_7125.JPG"
-  bio              : "Dynamics & Control of Complex Systems (DCCS)"
+  bio              : "Northwestern Polytechnical University (NWPU)"
   location         : "Xi'an, Shaanxi, China"
   employer         :
   pubmed           : 
